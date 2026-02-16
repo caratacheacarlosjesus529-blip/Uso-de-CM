@@ -1,1 +1,1 @@
-Versión Inicial: 1.0
+Versión Actualizada: 2.0 - Se agregaron parámetros de seguridad
